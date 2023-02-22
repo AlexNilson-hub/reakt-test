@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reakt-test/static/css/main.c58ed29a.css",
+    "main.js": "/reakt-test/static/js/main.a2c4907d.js",
+    "static/js/787.cd9d8fe3.chunk.js": "/reakt-test/static/js/787.cd9d8fe3.chunk.js",
+    "static/media/zakat.png": "/reakt-test/static/media/zakat.1492771a4cdf716dff20.png",
+    "static/media/logo.svg": "/reakt-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reakt-test/index.html",
+    "main.c58ed29a.css.map": "/reakt-test/static/css/main.c58ed29a.css.map",
+    "main.a2c4907d.js.map": "/reakt-test/static/js/main.a2c4907d.js.map",
+    "787.cd9d8fe3.chunk.js.map": "/reakt-test/static/js/787.cd9d8fe3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58ed29a.css",
+    "static/js/main.a2c4907d.js"
+  ]
+}
